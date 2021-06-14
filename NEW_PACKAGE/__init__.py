@@ -1,1 +1,1 @@
-"""Implement NEW_PACKAGE"""
+"""Implement NEW_PACKAGE."""
