@@ -3,6 +3,6 @@
 -r requirements_mypy.txt
 -r requirements_pypi.txt
 -r requirements_test.txt
-tox==4.14.2
+tox==4.15.1
 
 -e .
